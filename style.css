@@ -1,0 +1,58 @@
+/* Example styling of a h1 element */
+
+
+body {
+  background-color: steelblue;
+  width: 1080px;
+  height: 1000px;
+  max-width: 100%;
+  text-align:left;
+  font-family: arial;
+  margin: auto;
+  border: 100px 100px 150px 80px;
+
+}
+
+
+img {
+  background-image: url("waiter_header_1.png");
+  background-repeat: no-repeat;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
+h1 {
+  font-family: "impact", serif; 
+  color: azure;
+  text-align: left;
+  font-size: 250px;
+  margin:0;
+  padding:0;
+
+}
+
+
+h2 {
+  color: powderblue;
+  font-family: 'Raleway', sans-serif;
+  font-size:  50px;
+  text-align: center;
+
+}
+
+
+p {
+  font-size: 20px;
+  color: whitesmoke;
+
+}
+
+a {
+  color: lightsteelblue;
+}
